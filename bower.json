@@ -1,0 +1,17 @@
+{
+    "name": "cambay-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Pooja Saxena"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/cambay-bower.git"
+    },
+    "description": "Cambay font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
